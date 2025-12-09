@@ -15,4 +15,5 @@ Finally, I translated all of this into concrete solution directions: an Interact
 The Marketing Video is as follows:
 https://youtu.be/loA02ui2cCs
 
-
+Figma link is as follows:
+figma.com/proto/fJWPsAfARkDDNAQmgQRTNB/DT-Team-03?node-id=0-1
